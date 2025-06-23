@@ -1,12 +1,35 @@
-# React + Vite
+# 🌐 Akash Sen - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+This site showcases my skills, projects, resume, and contact information in a clean, responsive layout. Built using **React** and **Tailwind CSS**, and deployed on **Vercel**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
 
-## Expanding the ESLint configuration
+- 📖 **About Me** – Short intro with background and passion
+- 💻 **Projects** – Highlighted work with GitHub links and live demos
+- 🧰 **Skills** – Technologies and tools I work with
+- 📄 **Resume** – Downloadable PDF resume
+- 📬 **Contact** – Easy-to-use contact form
+- 🌙 **Dark Mode** – Modern UI experience
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+- **Frontend**: React, Tailwind CSS
+- **Deployment**: Vercel
+- **Version Control**: Git + GitHub
+
+---
+
+## 📍 Live Site
+
+🔗 [https://your-username.vercel.app](https://your-username.vercel.app)
+
+---
+
+## 📎 License
+
+This project is open-source and available under the [MIT License](LICENSE).
