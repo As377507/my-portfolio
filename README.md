@@ -25,8 +25,7 @@ This site showcases my skills, projects, resume, and contact information in a cl
 
 ## 📍 Live Site
 
-🔗 [https://your-username.vercel.app](https://your-username.vercel.app)
-
+🔗 https://akash-sen-portfolio.vercel.app/
 ---
 
 ## 📎 License
