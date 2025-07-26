@@ -10,9 +10,9 @@ export const Projects = () => {
     },
     {
       title: "Ensemble GAN-Enhanced Tumor Detection",
-      description: "AI model for intelligent pancreatic tumor detection using deep learning techniques.It is research Based Project",
+      description: "AI model for intelligent pancreatic tumor detection using deep learning techniques.Note: This project is part of an active medical imaging research initiative.Due to institutional and ethical constraints, the source code and data cannot be made public at this time.However, I’m open to discussing the methodology, architecture, and results in detail during interviews or presentations",
       techStack: ["GAN", "Python", "Deep Learning", "CNN"],
-      githubLink: "https://github.com/As377507",
+      githubLink: "https://github.com/As377507/",
     },
     {
       title: "Binary Image Classifier (CNN)",
