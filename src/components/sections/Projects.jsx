@@ -19,6 +19,12 @@ export const Projects = () => {
       description: "A convolutional neural network model to classify human face images based on emotions.",
       techStack: ["TensorFlow", "CNN", "Python", "Keras"],
       githubLink: "https://github.com/As377507/Binary-Image-Classifier-using-CNN",
+    },
+    {
+      title: "AI Content Structure Analyzer",
+      description: "Python-based analyzer that evaluates HTML/Markdown content structure and entity density to optimize readiness for Google AI-generated summaries.",
+      techStack: ["Python", "Flask", "spaCy", "NLP", "AI Scoring"],
+      githubLink: "https://github.com/As377507/serp-strategist-ai-summary-optimizer",
     }
   ];
 

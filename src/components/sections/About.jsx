@@ -8,7 +8,7 @@ export const About = () => {
     "TailwindCSS",
   ];
 
-  const backendSkills = ["Node.js", "Python", "Java", "MongoDB", "MySQL"];
+  const backendSkills = ["Java","Spring Boot","Node.js", "Python", "MySQL", "Docker"];
 
   return (
     <section
@@ -72,7 +72,7 @@ export const About = () => {
                   MAKAUT)
                   <br />{" "}
                   <span className="text-gray-400">July 2021 – July 2025</span>
-                  <br /> <span className="font-semibold">CGPA:</span> 8.457
+                  <br /> <span className="font-semibold">CGPA:</span> 8.47
                 </li>
 
                 <li>

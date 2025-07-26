@@ -13,7 +13,7 @@ export const Home = () => {
           </h1>
 
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-          Passionate full-stack developer with expertise in building clean, scalable web applications. I specialize in crafting high-performance solutions while ensuring a seamless user experience. Additionally, I have a strong interest in Machine Learning and Deep Learning, leveraging AI to create intelligent and data-driven applications. 🚀
+          Passionate full-stack developer with expertise in building clean, scalable web amd AI applications. I specialize in crafting high-performance solutions while ensuring a seamless user experience. Additionally, I have a strong interest in Machine Learning and Deep Learning, leveraging AI to create intelligent and data-driven applications. 🚀
           </p>
           <div className="flex justify-center space-x-4">
             <a
