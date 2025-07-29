@@ -10,13 +10,19 @@ export const Projects = () => {
     },
     {
       title: "Ensemble GAN-Enhanced Tumor Detection",
-      description: "AI model for intelligent pancreatic tumor detection using deep learning techniques.Note: This project is part of an active medical imaging research initiative.Due to institutional and ethical constraints, the source code and data cannot be made public at this time.However, I’m open to discussing the methodology, architecture, and results in detail during interviews or presentations",
+      description: "AI model for intelligent pancreatic tumor detection using deep learning techniques.Note: This project is part of an active medical imaging research initiative.Due to institutional and ethical constraints, the source code and data cannot be made public at this time.",
       techStack: ["GAN", "Python", "Deep Learning", "CNN"],
       githubLink: "https://github.com/As377507/",
     },
     {
+      title: "Task Tracker Website",
+      description: "A modern and responsive full-stack Task Management Web Application with authentication, task tracking, and a dashboard-style UI for better productivity.",
+      techStack: ["React", "Material UI", "Java", "Spring Boot", "Hibernate", "MySQL", "JWT"],
+      githubLink: "https://github.com/As377507/task-tracker-website"
+    },
+    {
       title: "Binary Image Classifier (CNN)",
-      description: "A convolutional neural network model to classify human face images based on emotions.",
+      description: "This project is a Binary Image Classifier built using Convolutional Neural Networks (CNN) with TensorFlow and Keras. It classifies human facial expressions into two categories—happy and sad—based on emotional features in the images.",
       techStack: ["TensorFlow", "CNN", "Python", "Keras"],
       githubLink: "https://github.com/As377507/Binary-Image-Classifier-using-CNN",
     },
