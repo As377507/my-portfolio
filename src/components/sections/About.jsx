@@ -6,6 +6,7 @@ export const About = () => {
     "JavaScript",
     "HTML",
     "TailwindCSS",
+     "PowerBI",
   ];
 
   const backendSkills = ["Java","Spring Boot","Node.js", "Python", "MySQL", "Docker"];
